@@ -1,0 +1,14 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>admission.aiml</learn>
+            <learn>academics.aiml</learn>
+            <learn>department.aiml</learn>
+            <learn>main.aiml</learn>
+            <learn>greeting.aiml</learn>
+           <learn>self-test.aiml</learn>
+        </template>
+    </category>
+</aiml>
